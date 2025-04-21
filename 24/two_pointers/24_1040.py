@@ -1,7 +1,7 @@
 import re
 import string
 
-f = open('../kompege_data/24_1040.txt').readline()
+f = open('../data_kompege/24_1040.txt').readline()
 
 l = 0
 a = 0

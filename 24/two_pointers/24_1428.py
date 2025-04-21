@@ -1,6 +1,6 @@
 import re
 
-f = open('../kompege_data/24_1428.txt').readline()
+f = open('../data_kompege/24_1428.txt').readline()
 
 l = 0
 a = 0

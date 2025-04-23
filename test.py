@@ -1,4 +1,1 @@
-def f(x):
-    return 1
-
-print(f(100))
+print(float(7.030422712344654))
